@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm blanchsb</h1>
+<h1 align="center">I'm blanchsb 🐽</h1>
 <h3 align="center">blender 3D generalist and extensions developer specializing in Serpens Visual Scripting</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blanchsb&label=Profile%20views&color=0e75b6&style=flat" alt="blanchsb" /> </p>
